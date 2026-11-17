@@ -1,0 +1,14 @@
+# generated / large / third-party material stays local
+/frames*/
+/blend/
+/renders/
+/textures/
+/audio/
+/refs/
+/out/*
+!/out/CREDITS.txt
+!/out/mechanical_moon_phone.mp4
+!/out/still_core_closeup.jpg
+__pycache__/
+*.pyc
+*.blend1
